@@ -1,0 +1,11 @@
+ua\akhrianin\text_quest\entity\User.class
+ua\akhrianin\text_quest\servlet\IndexServlet.class
+ua\akhrianin\text_quest\entity\Answer.class
+ua\akhrianin\text_quest\initialization\GameInitializer.class
+ua\akhrianin\text_quest\servlet\UserServlet.class
+ua\akhrianin\text_quest\entity\Answer$AnswerBuilder.class
+ua\akhrianin\text_quest\entity\Question.class
+ua\akhrianin\text_quest\servlet\AppContextListener.class
+ua\akhrianin\text_quest\entity\Question$Type.class
+ua\akhrianin\text_quest\entity\Question$QuestionBuilder.class
+ua\akhrianin\text_quest\servlet\DialogServlet.class
